@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Fun fact - I used to be a circus artist. <br><br>🔭 I’m currently working on boosting my portfolio.<br><br>👯 I’m looking to collaborate on UXUI projects, and can help with-<br> the design & implementation. <br><br>🌱 I’m currently learning Javascript.<br><br>
+🔭currently working on boosting my portfolio.<br><br>👯 I’m looking to collaborate on UXUI projects, and can help with-<br> the design & implementation. <br><br>🌱 I’m currently learning Javascript.<br><br>
 
 
 # 💻 Tech Stack:
